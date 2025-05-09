@@ -24,7 +24,7 @@
 ## 🌱 What I'm currently exploring:
 
 - Java / JDBC / SGBDs
-- Oracle Database Management PLSQL
+- Oracle Database Management PL/SQL
 - Cyber Security
 
 ## 📚 What I'm currently reading:
