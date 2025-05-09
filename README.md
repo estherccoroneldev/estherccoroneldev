@@ -29,8 +29,7 @@
 
 ## 📚 What I'm currently reading:
 
-- Clean code
-- Data structures w C, Java, JS, Python, C# and Ruby.
+- Clean code.
 
 ### 👯 I’m looking to collaborate on Open Source Projects
 
