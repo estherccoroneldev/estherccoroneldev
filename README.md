@@ -33,8 +33,8 @@
 
 ## 🗣️ Languages:
 
-- Spanish (Native)
 - English (Intermediate)
+- Spanish (Native)
 - Portuguese (Native)
 
 ### 👯 I’m looking to collaborate on Open Source Projects
