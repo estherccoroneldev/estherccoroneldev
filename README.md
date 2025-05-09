@@ -29,7 +29,7 @@
 
 ## 📚 What I'm currently reading:
 
-- Clean code.
+- Clean code by Uncle Bob
 
 ## 🗣️ Languages:
 
