@@ -31,13 +31,13 @@
 
 - Clean code.
 
-### 👯 I’m looking to collaborate on Open Source Projects
-
 ## 🗣️ Languages:
 
 - Spanish (Native)
 - English (Intermediate)
 - Portuguese (Native)
+
+### 👯 I’m looking to collaborate on Open Source Projects
 
 ## Let's connect!
 
