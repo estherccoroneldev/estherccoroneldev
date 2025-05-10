@@ -35,7 +35,7 @@
 
 - English (Intermediate)
 - Spanish (Native)
-- Portuguese (Native)
+- Portuguese (Advanced)
 
 ### 👯 I’m looking to collaborate on Open Source Projects
 
