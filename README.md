@@ -14,8 +14,7 @@
 
 ## 💼 What I bring to the table:
 
-- **End-to-End Mobile Development:** Expertise in the complete lifecycle of mobile application development, from front-end implementation (React Native | Expo) to backend infrastructure and API development (Node.js / Expressjs, PostgreSQL / SQLite, GraphQL / REST).
-- **Backend Development Skills:** Designing and implementing scalable and efficient backend systems using Node.js, PostgreSQL, and GraphQL to support mobile applications.
+- **End-to-End Mobile Development:** Expertise in the complete lifecycle of mobile application development, from front-end implementation (React Native | Expo) to backend infrastructure and API development (Node.js / Expressjs, PostgreSQL / SQLite, GraphQL / REST). 
 - **CI/CD Implementation for Mobile:** Proven ability to design and implement Continuous Integration and Continuous Delivery pipelines, ensuring efficient and reliable software releases across platforms with CircleCI and Fastlane.
 - **Focus on User Experience:** Delivering intuitive and high-performance mobile applications.
 - **Problem-Solving Mindset:** A knack for tackling complex technical challenges and delivering effective solutions across the stack.
