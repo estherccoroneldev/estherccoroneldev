@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Leo, I'm a Mobile Developer 👋</h1>
+  <h1>Hi, I'm Leo, a Mobile Developer 👋</h1>
   <p>I'm in Brazil, building end-to-end mobile solutions with a focus on seamless user experiences and efficient backend solutions.</p>
 </div>
 
