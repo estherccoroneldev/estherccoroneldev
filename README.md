@@ -23,7 +23,7 @@
 
 - Java / JDBC / SGBDs
 - Oracle Database Management PL/SQL
-- Cyber Security
+- App Distribution with Expo.
 
 ## 📚 What I'm currently reading:
 
