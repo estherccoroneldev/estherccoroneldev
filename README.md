@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi, I'm Leo, a Javascript Developer 👋</h1>
-  <p>I'm in Brazil, building end-to-end mobile solutions with a focus on seamless user experiences and efficient backend solutions.</p>
+  <h1>Hi, here is Esther, a Javascript Developer 👋</h1>
+  <p>I'm in Brasil, building end-to-end mobile solutions with a focus on seamless user experiences and efficient backend solutions.</p>
 </div>
 
 ## 🛠️ Technologies I work with:
