@@ -13,8 +13,8 @@
 
 ## 💼 What I bring to the table:
 
-- **End-to-End Mobile Development:** Expertise in the complete lifecycle of mobile application development, from front-end implementation (React Native | Expo) and API development (Node.js / Expressjs, PostgreSQL / SQLite, GraphQL / REST). 
-- **App Distribution:** Proven ability to deploy mobile apps to the stores, and implement CI/CD pipelines, ensuring efficient and reliable software releases across platforms with CircleCI and Fastlane.
+- **End-to-End Mobile Development:** Expertise in the complete lifecycle of mobile application development, from front-end implementation (React Native | Expo) to API development (Node.js / Expressjs, PostgreSQL / SQLite, GraphQL / REST). 
+- **App Distribution:** Proven ability to deploy mobile apps to the stores, and implement CI/CD pipelines, ensuring efficient and reliable software releases across platforms.
 - **Focus on User Experience:** Delivering intuitive and high-performance mobile applications.
 - **Problem-Solving Mindset:** A knack for tackling complex technical challenges and delivering effective solutions across the stack.
 - **Passion for Clean and Maintainable Code:** Writing well-structured, testable (Jest / Appium) and easily understandable code in both mobile and backend environments.
@@ -22,12 +22,12 @@
 ## 🌱 What I'm currently exploring:
 
 - Java / JDBC / SGBDs
-- Oracle Database Management PL/SQL
 - App Distribution with Expo.
 
 ## 📚 What I'm currently reading:
 
-- Clean code by Uncle Bob
+- 14 Habits of Highly Productive Developers by Zeno Rocha.
+- Clean code by Uncle Bob.
 
 ## 🗣️ Languages:
 
