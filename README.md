@@ -27,7 +27,6 @@
 ## 📚 What I'm currently reading:
 
 - 14 Habits of Highly Productive Developers by Zeno Rocha.
-- Clean code by Uncle Bob.
 
 ## 🗣️ Languages:
 
