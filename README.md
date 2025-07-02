@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi, here is Esther, a Javascript Developer 👋</h1>
-  <p>I'm in Brasil, building end-to-end mobile solutions with a focus on seamless user experiences and efficient backend solutions.</p>
+  <h1>Hi, here is Esther, a Mobile Developer 👋</h1>
+  <p>I'm from Brasil, building end-to-end mobile solutions with a focus on seamless user experiences.</p>
 </div>
 
 ## 🛠️ Technologies I work with:
@@ -21,7 +21,7 @@
 
 ## 🌱 What I'm currently exploring:
 
-- Java / JDBC / SGBDs
+- SwiftUI
 - App Distribution with Expo.
 
 ## 📚 What I'm currently reading:
