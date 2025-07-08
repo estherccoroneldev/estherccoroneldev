@@ -30,7 +30,7 @@
 
 ## 🗣️ Languages:
 
-- English (Intermediate)
+- English (C1+)
 - Spanish (Native)
 - Portuguese (Advanced)
 
