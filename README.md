@@ -17,7 +17,7 @@
 - **App Distribution:** Proven ability to deploy and release mobile apps to the stores, as well as implement CI/CD pipelines, ensuring efficient and reliable software releases across platforms.
 - **Focus on User Experience:** Delivering intuitive and high-performance mobile applications.
 - **Problem-Solving Mindset:** A knack for tackling complex technical challenges and delivering effective solutions across the stack.
-- **Passion for Clean and Maintainable Code:** Writing well-structured, testable (Jest / Appium) and easily understandable code in both mobile and backend environments.
+- **Passion for Clean and Maintainable Code:** Writing well-structured, testable (Jest / Appium) and easily understandable code.
 
 ## 🌱 What I'm currently exploring:
 
